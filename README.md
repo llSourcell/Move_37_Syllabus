@@ -15,7 +15,7 @@ Translate Videos
 - Insurance Analysis
 
 ##### Topics You'll Learn 
-- Markov Decision Processes, Policy Functions, Value Functions, and the Bellman Equation
+###### Markov Decision Processes, Policy Functions, Value Functions, and the Bellman Equation
 
 ## Week 2 - Dynamic Programming
 - Supply Chain Management
