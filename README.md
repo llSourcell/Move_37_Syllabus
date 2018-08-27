@@ -1,5 +1,4 @@
 # RL
-work in progress
 
 
 Translate Videos 
@@ -43,7 +42,7 @@ Monte Carlo prediction, Monte Carlo control, Greedy & Epsilon-Greedy Policies , 
 - Product Recommendations
 
 ##### Topics Covered
-Temporal Difference Learning, SARSA, Q-Learning, Meta Learning
+Temporal Difference Learning, SARSA, Q-Learning, Model vs Model Free Intuition
 
 ## Week 5 - Reinforcement Learning in Continous Spaces
 - Self Driving Cars
@@ -73,16 +72,22 @@ DQN + Double DQN Networks, Dueling DQN, Prioritized Replay, Value-based Methods 
 Evolutionary Algorithms, Stochastic Policy Search, Policy Gradients, REINFORCE
 
 ## Week 8 - Improving Policy Gradients 
-- Hierarchical Policy Gradients
-- Generalized Advantage Estimation (GAE) 
-- Trust Region Policy Optimization 
-- Proximal Policy Optimization (PPO)
+- Music Generation
+- Fraud Detection
+- Automated Trust Validation
+- Interior Design
+
+##### Topics You'll Learn 
+Evolved Policy Gradients, Generalized Advantage Estimation (GAE), Trust Region Policy Optimization, Proximal Policy Optimization (PPO)
 
 ## Week 9 - Actor Critic Methods
-- Actor Critic Algorithm
-- Asynchronous Advantage Actor Critic
-- Deep Deterministic Policy Gradients (DDPG)
-- Bayesian Actor-Critic
+- Lab Science
+- Quality Control 
+- Simulation 
+- Meta Learning
+
+##### Topics You'll Learn 
+Actor Critic Algorithm, Asynchronous Advantage Actor Critic, Deep Deterministic Policy Gradients (DDPG), Bayesian Actor-Critic
 
 ## Week 10 - Multi Agent RL
 - Transportation Efficiency
