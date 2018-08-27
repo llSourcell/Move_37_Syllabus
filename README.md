@@ -9,6 +9,12 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 - Understand Basic Python Syntax
 - Understand how the Backpropagation algorithm works.
 
+#### Components
+- Midterm Project
+- Final Project
+- Videos, Quizzes, Reading Assignments, Interviews, Coding Challenge
+- Group Discussion in Slack
+
 ### Course Objective
 
 Reinforcement learning is driving some of the latest advances in AI, from DeepMind's AlphaGo to OpenAI's DOTA bots. Although these AIs are designed for video games, reinforcement learning is a powerful branch of AI that can be applied to endless applications in the real world. In this course, we'll cover various RL techniques in order of increasing complexity, applying them to both simulated and real world problems. Students will develop an intuition around when to use certain RL algorithms and by the end of the course will have the practical skills necessary to apply RL to a problem they are passionate about to make a positive impact in the world. 
@@ -44,7 +50,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ###### Iterative Policy Evaluation, Policy improvement, Policy iteration, Value iteration
 
 ## Week 3 - Model-Based Learning 
-- Personalized Mental Therapy
+- Interview #1
 - Chatbot for Task Completion
 - Medical Diagnosis 
 - Network Optimization
@@ -67,6 +73,8 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 - Rescue Robots
 - Assembly Robots 
 
+# Midterm Project
+
 ##### Topics Covered 
 ###### Control Theory, Imitation Learning, The Hamilton-Jacobi-Bellman Equation, Kalman Filters
 
@@ -74,7 +82,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 - Drug Discovery 
 - Gaming 
 - Language Translation
-- QA Systems
+- Interview #2 
 
 ###### Topics Covered
 ###### DQN + Double DQN Networks, Dueling DQN, Prioritized Replay, Value-based Methods for Robotics
@@ -100,7 +108,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ## Week 9 - Actor Critic Methods
 - Open Sourcing Lab Science
 - Automated Quality Control 
-- Simulation Testing 
+- Interview #3 
 - Meta Learning
 
 ##### Topics Covered
@@ -114,3 +122,5 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 
 ##### Topics Covered
 ###### Cooperation, Competiton, Parallelism, Inverse Reinforcement Learning
+
+# Final Project 
