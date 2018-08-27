@@ -61,5 +61,5 @@ work in progress
 ## Week 10 - Multi Agent RL
 - Cooperation
 - Competiton
-- Coordination
+- Parallelism
 - Inverse RL
