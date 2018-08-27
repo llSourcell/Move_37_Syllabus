@@ -81,9 +81,9 @@ Translate Videos
 ###### Evolved Policy Gradients, Generalized Advantage Estimation (GAE), Trust Region Policy Optimization, Proximal Policy Optimization (PPO)
 
 ## Week 9 - Actor Critic Methods
-- Lab Science
-- Quality Control 
-- Simulation 
+- Open Sourcing Lab Science
+- Automated Quality Control 
+- Simulation Testing 
 - Meta Learning
 
 ##### Topics Covered
