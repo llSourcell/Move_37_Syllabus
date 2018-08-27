@@ -4,62 +4,62 @@ work in progress
 
 ## Foundations of RL
 
-### Framing RL
-- Markov Decision Process
-
-### Solving RL
+### Week 1 - Reinforcement Learning (The Problem)
+- Markov Decision Processes
 - Policy Functions
 - Value Functions
-- Bellman Equation
+- The Bellman Equation
 
-### Dynamic Programming
-- Iterative policy evaluation
+### Week 2 - Dynamic Programming
+- Iterative Policy Evaluation
 - Policy improvement
 - Policy iteration
 - Value iteration
 
-### Model-free Learning (Monte Carlo)
+### Week 3 - Model-Based Learning 
 - Monte Carlo prediction
 - Monte Carlo control
-- Greedy Policies
-- Epsilon Greedy Policies
-- Exploration vs Exploitation Dilemma
+- Greedy & Epsilon-Greedy Policies 
+- The Exploration vs Exploitation Dilemma
 
-### Model Free Learning (Temporal Difference)
+### Week 4 - Model-Free Learning 
+- Temporal Difference Learning
 - SARSA
 - Q-Learning
+- Meta Learning
 
-### Reinforcement Learning in Continous Spaces
+### Week 5 - Reinforcement Learning in Continous Spaces
+- Control Theory
+- Imitation Learning
 - The Hamilton-Jacobi-Bellman Equation
-- Finite Element Method
+- Kalman Filters
 
-## Value Based Methods
-
-### Deep Q Learning
-- Deep Q Networks
-- Double DQN
+## Week 6 - Value Based Methods
+- DQN + Double DQN Networks
 - Dueling DQN
 - Prioritized Replay
-
-### Robotics
 - Value-based Methods for Robotics
 
-## Policy Based Methods
-
-### Policy Gradients
+### Week 7 - Policy Based Methods
 - Evolutionary Algorithms
 - Stochastic Policy Search
+- Policy Gradients
 - REINFORCE
 
-### Improving Policy Gradients 
+### Week 8 - Improving Policy Gradients 
+- Hierarchical Policy Gradients
 - Generalized Advantage Estimation (GAE) 
 - Trust Region Policy Optimization 
 - Proximal Policy Optimization (PPO)
 
-### Actor Critic 
+### Week 9 - Actor Critic Methods
+- Actor Critic Algorithm
+- Asynchronous Advantage Actor Critic
 - Deep Deterministic Policy Gradients (DDPG)
+- Bayesian Actor-Critic
 
-## Multi Agent RL
+## Week 10 - Multi Agent RL
 - Cooperation
 - Competiton
+- Coordination
 - Inverse RL
