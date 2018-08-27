@@ -18,19 +18,20 @@ work in progress
 - Policy iteration
 - Value iteration
 
-### Monte Carlo Methods
+### Model-free Learning (Monte Carlo)
 - Monte Carlo prediction
 - Monte Carlo control
 - Greedy Policies
 - Epsilon Greedy Policies
 - Exploration vs Exploitation Dilemma
 
-### Temporal Difference Learning
+### Model Free Learning (Temporal Difference)
 - SARSA
 - Q-Learning
 
 ### Reinforcement Learning in Continous Spaces
-
+- The Hamilton-Jacobi-Bellman Equation
+- Finite Element Method
 
 ## Value Based Methods
 
@@ -59,6 +60,6 @@ work in progress
 - Deep Deterministic Policy Gradients (DDPG)
 
 ## Multi Agent RL
-
-
-
+- Cooperation
+- Competiton
+- Inverse RL
