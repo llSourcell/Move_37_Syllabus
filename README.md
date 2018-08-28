@@ -26,7 +26,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 #### Tools Used
 - Pytorch (Deep Learning Library)
 - OpenAI Gym (Reinforcement Learning Library)
-- Google Colab (for free GPUs, no need to install/configure with dependencies)
+- Google Colab (for free GPUs, no need to install/configure dependencies)
 
 
 
