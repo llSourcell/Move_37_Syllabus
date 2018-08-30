@@ -1,8 +1,8 @@
 # Move 37
 
-#### Overview
+#### Course Objective
 
-This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning course, as part of School of AI. This course can be taken for free on Youtube in the form of a playlist, or at School of AI for a more immersive learning experience. 
+This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning course, as part of School of AI. This course can be taken for free on Youtube in the form of a playlist, or at School of AI for a more immersive learning experience. Reinforcement learning is driving some of the latest advances in AI, from DeepMind's AlphaGo to OpenAI's DOTA bots. Although these AIs are designed for video games, reinforcement learning is a powerful branch of AI that can be applied to endless applications in the real world. In this course, we'll cover various RL techniques in order of increasing complexity, applying them to both simulated and real world problems. Students will develop an intuition around when to use certain RL algorithms and by the end of the course will have the practical skills necessary to apply RL to a problem they are passionate about to make a positive impact in the world. 
 
 #### Prerequisites
 - Understand Basic Python Syntax
@@ -11,20 +11,20 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 #### Components
 - Midterm Project
 - Final Project
-- Videos, Quizzes, Reading Assignments, Interviews, Coding Challenge
+- Educational Videos
+- Quizzes
+- Reading Assignments
+- Coding Assignments
+- Interviews
 - Group Discussion in Slack
-
-### Course Objective
-
-Reinforcement learning is driving some of the latest advances in AI, from DeepMind's AlphaGo to OpenAI's DOTA bots. Although these AIs are designed for video games, reinforcement learning is a powerful branch of AI that can be applied to endless applications in the real world. In this course, we'll cover various RL techniques in order of increasing complexity, applying them to both simulated and real world problems. Students will develop an intuition around when to use certain RL algorithms and by the end of the course will have the practical skills necessary to apply RL to a problem they are passionate about to make a positive impact in the world. 
-
 
 #### Course Length
 - 10 Weeks
 - 10-15 hours of dedicated study per week
+- Starts September 10 at 12 PM PST
 
 #### Tools Used
-- Pytorch (Deep Learning Library)
+- Pytorch & Tensorflow (Deep Learning Libraries in Python)
 - OpenAI Gym (Reinforcement Learning Library)
 - Google Colab (for free GPUs, no need to install/configure dependencies)
 
