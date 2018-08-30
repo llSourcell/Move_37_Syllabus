@@ -49,7 +49,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered
 ###### Iterative Policy Evaluation, Policy improvement, Policy iteration, Value iteration
 
-## Week 3 - Model-Based Learning 
+## Week 3 - Monte Carlo Methods
 - Interview #1
 - Chatbot for Task Completion
 - Medical Diagnosis 
@@ -78,7 +78,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered 
 ###### Control Theory, Imitation Learning, The Hamilton-Jacobi-Bellman Equation, Kalman Filters
 
-## Week 6 - Value Based Methods
+## Week 6 - Deep Reinforcement Learning
 - Drug Discovery 
 - Gaming 
 - Language Translation
@@ -96,7 +96,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered
 ###### Evolutionary Algorithms, Stochastic Policy Search, Policy Gradients, REINFORCE
 
-## Week 8 - Improving Policy Gradients 
+## Week 8 - Modern Policy Gradient Techniques
 - Music Generation
 - Fraud Detection
 - Automated Trust Validation
