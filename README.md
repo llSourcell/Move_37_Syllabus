@@ -19,7 +19,6 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 Reinforcement learning is driving some of the latest advances in AI, from DeepMind's AlphaGo to OpenAI's DOTA bots. Although these AIs are designed for video games, reinforcement learning is a powerful branch of AI that can be applied to endless applications in the real world. In this course, we'll cover various RL techniques in order of increasing complexity, applying them to both simulated and real world problems. Students will develop an intuition around when to use certain RL algorithms and by the end of the course will have the practical skills necessary to apply RL to a problem they are passionate about to make a positive impact in the world. 
 
 
-
 #### Course Length
 - 10 Weeks
 - 10-15 hours of dedicated study per week
@@ -71,10 +70,11 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 - Rescue Robots
 - Assembly Robots 
 
-# Midterm Project
-
 ##### Topics Covered 
 ###### Control Theory, Imitation Learning, The Hamilton-Jacobi-Bellman Equation, Kalman Filters
+
+# Midterm Project
+- Train a bipedal humanoid robot to walk in simulation!
 
 ## Week 6 - Deep Reinforcement Learning 
 - Traffic Optimization
@@ -94,9 +94,6 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered
 ###### Evolutionary Algorithms, Stochastic Policy Search, Policy Gradients, REINFORCE
 
-- Product Recommendations
-- Drug Discovery
-
 ## Week 8 - Policy Gradient Methods
 - Dialogue Systems
 - Photo Editing 
@@ -113,7 +110,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 - Interview #3 
 
 ##### Topics Covered
-###### Actor Critic Algorithm, Asynchronous Advantage Actor Critic, Deep Deterministic Policy Gradients (DDPG), Bayesian Actor-Critic
+###### Actor Critic Algorithms, Asynchronous Advantage Actor Critic, Deep Deterministic Policy Gradients (DDPG), Bayesian Actor-Critic
 
 ## Week 10 - Multi Agent Reinforcement Learning
 - Move 37
@@ -125,3 +122,4 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ###### Cooperation, Competiton, Parallelism, Inverse Reinforcement Learning
 
 # Final Project 
+- Develop a multi-agent network to solve a real world problem! 
