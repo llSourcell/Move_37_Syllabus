@@ -96,7 +96,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered
 ###### Evolutionary Algorithms, Stochastic Policy Search, Policy Gradients, REINFORCE
 
-## Week 8 - Modern Policy Gradient Techniques
+## Week 8 - Policy Gradient Methods
 - Music Generation
 - Fraud Detection
 - Automated Trust Validation
@@ -114,7 +114,7 @@ Reinforcement learning is driving some of the latest advances in AI, from DeepMi
 ##### Topics Covered
 ###### Actor Critic Algorithm, Asynchronous Advantage Actor Critic, Deep Deterministic Policy Gradients (DDPG), Bayesian Actor-Critic
 
-## Week 10 - Multi Agent RL
+## Week 10 - Multi Agent Reinforcement Learning
 - Transportation Efficiency
 - Emergent Complexity
 - Decentralized Autonomous Organizations
