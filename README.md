@@ -64,7 +64,7 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 ##### Topics Covered
 ###### Temporal Difference Learning, SARSA, Q-Learning, Model vs Model Free Intuition
 
-## Week 5 - Reinforcement Learning in Continous Spaces
+## Week 5 - Reinforcement Learning in Continuous Spaces
 - Self Driving Cars
 - Delivery Drones
 - Rescue Robots
