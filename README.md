@@ -29,10 +29,10 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 - Google Colab (for free GPUs, no need to install/configure dependencies)
 
 ## Week 1 - Introduction
+- Trailer
 - Introduction
 - Sensor Networks
-- Supply Chain Management
-- Energy Efficiency 
+- Google Dopamine (Live Stream) 
 
 ##### Topics Covered
 ###### Markov Decision Processes, Policy Functions, Value Functions, and the Bellman Equation
@@ -49,7 +49,7 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 ## Week 3 - Monte Carlo Methods
 - Interview #1
 - Medical Diagnosis 
-- Network Routing Optimization
+- Energy Efficiency
 - Physics Research
 
 ##### Topics Covered 
