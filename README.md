@@ -29,10 +29,10 @@ This is the syllabus for "Move 37", Siraj Raval's free reinforcement learning co
 - Google Colab (for free GPUs, no need to install/configure dependencies)
 
 ## Week 1 - Introduction
-- Trailer
-- Introduction
-- Sensor Networks
-- Google Dopamine (Live Stream) 
+- [Trailer](https://www.youtube.com/watch?v=Ei1YBf6qQAw)
+- [Introduction](https://www.youtube.com/watch?v=fRmZck1Dakc&lc=z222vbygaljhxdlu3acdp43aehimsbajktayy3ol0chw03c010c.1536616663717191)
+- [Sensor Networks](https://www.youtube.com/watch?v=PYQAI6Td2wo&lc=Ugx7I5_dW7iav_M3wr14AaABAg)
+- [Google Dopamine (Live Stream)](https://www.youtube.com/watch?v=FWFoyFjeAaM)
 
 ##### Topics Covered
 ###### Markov Decision Processes, Policy Functions, Value Functions, and the Bellman Equation
